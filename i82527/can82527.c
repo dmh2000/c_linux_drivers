@@ -29,6 +29,7 @@
 */
 
 MODULE_LICENSE("Dual BSD/GPL");
+MODULE_AUTHOR("Dave Howard dmh2000@gmail.com");
 
 #define CAN82527_IOMEM_SIZE     512
 #define CAN82527_MODULE_NAME    "can82527"

@@ -34,7 +34,7 @@
 */
 
 MODULE_LICENSE("Dual BSD/GPL");
-MODULE_AUTHOR("Dave Howard daveh@dmh2000.com");
+MODULE_AUTHOR("Dave Howard dmh2000@gmail.com");
 
 #define HDR                      "SNC Serial driver for Parvus Multicomm " 
 #define MULTICOMM_MODULE_NAME    "multicomm"

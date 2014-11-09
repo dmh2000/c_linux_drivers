@@ -32,7 +32,7 @@
 */
 
 MODULE_LICENSE("Dual BSD/GPL");
-MODULE_AUTHOR("Dave Howard daveh@dmh2000.com");
+MODULE_AUTHOR("Dave Howard dmh2000@gmail.com");
 
 #define HDR                    "Philips CAN SJA1000 driver " 
 #define SJA1000_MODULE_NAME    "sja1000"
