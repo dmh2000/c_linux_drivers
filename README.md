@@ -6,4 +6,4 @@ They were developed for an embedded system that had a 2.6 kernel. The CAN bus dr
 
 - SJA1000 Phillips CAN Bus Controller 
 - i82527 Intel CAN Bus Controller 
-- Multicomm PC/104 Mmultiple RS232/422 Serial Board
+- Multicomm PC/104 Multiple RS232/422 Serial Board
